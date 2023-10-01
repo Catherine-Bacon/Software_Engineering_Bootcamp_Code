@@ -1,0 +1,15 @@
+1)  Write the pseudocode for the algorithm
+that asks the user for a number and stores that number in a variable
+called n. Then the algorithm should calculate and print out the first n
+numbers in the Fibonacci sequence.
+
+Solution:
+
+request an integer (input) from the user
+store input into variable called "n"
+create a list of [0, 1]
+for n - 2 loops
+	find the sum of the final two elements of the list
+	add this new number onto the end of the list (append)
+end loop
+print the list 

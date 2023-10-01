@@ -1,0 +1,48 @@
+1) An algorithm that asks a user to enter a positive number repeatedly until the user enters a
+zero value, then determines and outputs the largest of the numbers that were input
+
+Solution:
+
+request an input (positive integer) from the user
+if the input is negative
+	print "please input a positive number"
+	request another input from the user
+if the input is more than zero
+	store the input in a list
+	request another input from the user
+when the input is equal to zero
+	find the largest number in the list (could sort in ascending order and select the last element of the list)
+	print the largest number in the list
+
+2) An algorithm that reads an arbitrary number of integers and then returns to their 
+arithmetic average
+ 
+Solution:
+
+get a list of integers
+put integers into a list
+find the length of the list
+find the sum of all integers in the list
+divide the sum by the length
+print the result
+
+3) An algorithm that reads a grocery list and prints out the products (in alphabetical order)
+that are still left to buy 
+
+Solution:
+
+get a list of groceries
+sort the list into alphabetical order (either overwrite or create a new variable containing the ordered list)
+print the ordered list
+
+4)  An algorithm that asks the user to enter four numbers, sorts those
+numbers from smallest to largest and then prints the sorted
+numbers.
+
+Solution:
+
+request the user to input four integers 
+store integers in a list
+sort the list into ascending order
+print list 
+

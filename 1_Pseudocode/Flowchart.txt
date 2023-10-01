@@ -1,0 +1,9 @@
+An algorithm for the flowchart (see flowchart.PNG)
+
+Solution:
+
+read the values for X and Y 
+create a variable called "S", defined as X plus Y 
+create a variable called "A", defined as S divided by 2 
+create a variable called "P", dedined as X multiplied by Y
+print the variables S, A and P
