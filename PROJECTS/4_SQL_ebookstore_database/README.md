@@ -1,6 +1,6 @@
 ### ASSIGNMENT:
 
-Create a databse called ebookstore to be used by a bookstore clerk. Populate the table with the following:
+Create a database called ebookstore to be used by a bookstore clerk. Populate the table with the following:
 
 ![ebookstore](ebookstore_table.png)
 
